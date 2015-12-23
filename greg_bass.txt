@@ -1,0 +1,1 @@
+I am a third-year PhD student in the Systems Biology Lab at the University of Melbourne.  I develop mathematical models of calcium signalling in heart cells, partly parameterized with image data that I have collected.
