@@ -1,0 +1,3 @@
+My name is Talitha Ford.
+I am at the end of my third year of a PhD at Swinburne looking at electro-magnetic field and metabolite differences in those with high and low scores on a combine autism-schizotypy scale. 
+I use Python and R for my data analysis, and am part of a coding group at Swinburne.
