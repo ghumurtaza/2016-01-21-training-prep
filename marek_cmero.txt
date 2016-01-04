@@ -1,0 +1,2 @@
+My name is Marek Cmero. I am a third-year PhD student at the University of Melbourne, based at WEHI. 
+I am currently working on investigating drug resistance in prostate cancer, and developing a method to investigate the evolution of tumour genome rearrangements.
